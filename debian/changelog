@@ -1,5 +1,30 @@
-template-repository (1.0-1) unstable; urgency=medium
+borghash (0.1.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Add autopkgtest
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 30 May 2025 10:46:22 +0200
+
+borghash (0.1.0-1) unstable; urgency=medium
+
+  * New upstream version 0.1.0
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sat, 23 Nov 2024 08:55:58 +0100
+
+borghash (0.0.2-1) unstable; urgency=medium
+
+  * New upstream version 0.0.2
+    - should fix borgbackup FTBFS on 32bit archs
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sun, 10 Nov 2024 09:20:16 +0100
+
+borghash (0.0.1-2) unstable; urgency=medium
+
+  * Source only reupload
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Fri, 08 Nov 2024 23:38:22 +0100
+
+borghash (0.0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #1086998)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 07 Nov 2024 22:14:57 +0000
